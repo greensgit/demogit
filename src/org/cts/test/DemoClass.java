@@ -7,6 +7,7 @@ public class DemoClass {
 	private void studentName() {
 System.out.println("My name is Raj");
 System.out.println("Deepak - Writing logic for login");
+System.out.println("My name is karthi - writing logic for cancel");
 	}
 	
 	public static void main(String[] args) {
